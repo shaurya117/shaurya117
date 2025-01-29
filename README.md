@@ -26,32 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
 </p>
 
----
 
-### 📌 Projects & Work
-
-🔹 **GameSphere** | React.js, Tailwind CSS, GSAP *(Jan 2025 - Present)*  
-  - A visually captivating website inspired by Zentry, featuring modern UI/UX principles, scroll-based animations, and clip-path geometric transitions.  
-  - 3D hover effects and seamless video transitions enhance storytelling.  
-  - Smooth, responsive design with polished UI/UX and reusable code architecture.  
-
-🔹 **XORA - UI/UX SaaS Website** | React.js, Tailwind CSS, GSAP *(Dec 2024 - Jan 2025)*  
-  - Engaging sections: hero, features, pricing, FAQ, testimonials, and software download.  
-  - Smooth animations using complex CSS for fluid motion and eye-catching effects.  
-  - Pixel-perfect design ensuring flawless responsiveness across devices.  
-
-🔹 **Portfolio Website** | HTML, CSS, JavaScript, Bootstrap, PHP *(Mar 2023 - Apr 2023)*  
-  - Designed and developed a responsive portfolio website with dynamic content and a PHP-powered contact form for user submissions.  
-  - Utilized Bootstrap for layout and styling, ensuring a modern and mobile-friendly design.  
-
----
-
-### 📊 GitHub Stats
-
-![Shaurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
 
 
 ### ✨ About Me
